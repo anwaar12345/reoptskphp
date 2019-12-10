@@ -43,7 +43,7 @@
             <input class="form-control" type="password" name="password">
         </div> <!-- form-group end.// -->  
         <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-block"> Register  </button>
+            <button type="submit" class="btn btn-block"><a href="admin/dashboard.php">Login </a></button>
         </div> <!-- form-group// -->      
         
    
